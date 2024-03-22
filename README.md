@@ -53,13 +53,8 @@ Then run:
 **[⬆ back to top](#table-of-contents)**
 
 
-## Demo
-Below is the demostration of this application. The full walk-through video can be found on my <a href="https://youtu.be/Brnw8__pX88">Youtube Channel</a>.
-<img src="images/demo.gif" alt="demo" />
-Here is the screenshot:
-<img src="images/Category.png" alt="screenshot" />
 
-**[⬆ back to top](#table-of-contents)**
+
 
 ## Built With
 
@@ -76,7 +71,7 @@ This application is licensed under MIT license.
 **[⬆ back to top](#table-of-contents)**
 
 ## Contributing
-This application is developed by Baofeng Guo. If you would like to contribute it, please follow the guidelines for how to do so.
+ If you would like to contribute it, please follow the guidelines for how to do so.
 
 **[⬆ back to top](#table-of-contents)**
 
